@@ -11,6 +11,7 @@ brew upgrade
 apps=(
   bash
   coreutils
+  dockutil
   git
   jq
   md5sha1sum
